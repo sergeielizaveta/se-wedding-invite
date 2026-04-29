@@ -1,1 +1,1 @@
-# se-wedding-invite
+# wedding-invite
